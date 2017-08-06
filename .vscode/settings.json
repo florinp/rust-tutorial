@@ -1,0 +1,5 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "rust.racerPath": "/home/florin/.cargo/bin/racer",
+    "rust.cargoHomePath": "/home/florin/.cargo/bin"
+}
